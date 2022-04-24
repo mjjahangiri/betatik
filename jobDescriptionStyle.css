@@ -1,0 +1,18 @@
+html,
+body {
+  direction: rtl !important;
+}
+.rtl {
+  direction: rtl !important;
+}
+.ltr {
+  direction: ltr !important;
+}
+#menu {
+  background-color: #ffffff;
+}
+
+#jobDetail {
+  padding: 10px;
+  background: linear-gradient(to bottom, #7209b7 45%, #20ad96 100%);
+}
